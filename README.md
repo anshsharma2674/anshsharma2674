@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ansh 👋
 
-<!--
-**anshsharma2674/anshsharma2674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc (Hons) Computer Science student at Delhi University.
+I build projects using Python and web technologies, and I'm learning something new every week.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+Python • Flask • SQLite • MongoDB • HTML • CSS • JavaScript • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Student Productivity & Attendance Manager**: Flask + SQLite dashboard with charts to track attendance and tasks
+- **Portfolio Website**: https://anshsharma2674.github.io
+
+## 🎓 Certification
+- MongoDB: Overview: Core Concepts and Architecture
+- Deloitte Data Analytics Job Simulation
+
+## 📫 Contact
+- LinkedIn: www.linkedin.com/in/ansh1605
+- Email: ansh64515@gmail.com
